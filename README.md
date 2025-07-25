@@ -26,7 +26,7 @@
 
 🛠️ **Tech Stack**  
 
-<p align="center">
+<!--<p align="center">
   <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" width="40"/>
   <img src="https://img.icons8.com/color/96/000000/spring-logo.png" alt="Spring Boot" width="40"/>
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-shadow-tal-revivo.png" alt="Node.js" width="40"/>
@@ -39,7 +39,25 @@
   <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" width="40"/>
   <img src="https://img.icons8.com/ios-glyphs/90/000000/github.png" alt="GitHub" width="40"/>
   <img src="https://img.icons8.com/color/96/000000/git.png" alt="Git" width="40"/>
+</p>-->
+
+🛠️ **Tech Stack**
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" width="40"/>
+  <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot" width="40"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" width="40"/>
+  <img src="https://img.icons8.com/offices/40/react.png" alt="React.js" width="40"/>
+  <img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter" width="40"/>
+  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML" width="40"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" width="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="MongoDB" width="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="Postman" width="40"/>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40"/>
+  <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub" width="40" style="background-color:white; border-radius: 6px; padding: 4px"/>
 </p>
+
 
 ---
 
