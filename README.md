@@ -3,8 +3,9 @@
 <h3 align="center">Computer Science Engineering Student | Full Stack Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="280" alt="Chill Girl Coding GIF" />
 </p>
+
 
 ---
 
@@ -40,8 +41,6 @@
   <img src="https://img.icons8.com/ios-glyphs/90/000000/github.png" alt="GitHub" width="40"/>
   <img src="https://img.icons8.com/color/96/000000/git.png" alt="Git" width="40"/>
 </p>-->
-
-🛠️ **Tech Stack**
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" width="40"/>
