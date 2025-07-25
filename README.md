@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science Engineering Student | Full Stack Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="280" alt="Chill Girl Coding GIF" />
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="250" alt="Aesthetic Girl GIF" />
 </p>
 
 
