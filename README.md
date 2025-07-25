@@ -72,3 +72,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Strive+for+progress+not+perfection.;Keep+building+and+keep+learning!" />
 </p>
 
+---
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-streak-stats-ruby.vercel.app/?user=MeghanaDG04&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/MeghanaDG04?cardType=octocat&theme=tokyonight&preferLogin=false&Border=%23DD272700" alt="Meghana Gaonkar GitHub Stats" />
+  <br />
+</p>
+   
+  </tr>
+  
+</table>
+
+🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arishsingh&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+</p>
