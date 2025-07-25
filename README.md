@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Meghana Gaonkar</h1>
 <h3 align="center">Computer Science Engineering Student | Full Stack Developer | Tech Enthusiast</h3>
@@ -44,12 +43,12 @@
 
 ---
 
-📊 **GitHub Stats**
+<!--📊 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Meghana-Gaonkar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Meghana-Gaonkar&theme=tokyonight" alt="GitHub Streak" />
-</p>
+</p>-->
 
 
 <p align="center">
