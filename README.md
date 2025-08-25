@@ -91,6 +91,7 @@
 
 🏆 Achievements
 
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MeghanaDG04&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MeghanaDG04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=20&margin-h=20&row=2&column=3"/>
 </p>
