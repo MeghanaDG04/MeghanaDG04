@@ -10,10 +10,10 @@
 ---
 
 🔍 **About Me**  
-- 💻 CSE student with a foundation in **Java**, **Data Structures**, and **OS**  
-- 🌱 Passionate about building real-world apps using **MERN Stack**, **Spring MVC**, and contributing to **Open Source**
+- 💻 CSE student with a foundation in **Java**, **Data Structures**.  
+- 🌱 Passionate about building real-world apps using **MERN Stack**, **Spring MVC**,**Flutter** and contributing to **Open Source**
 - 📚 Learning, growing, and building cool things  
-- 🤝 Looking for internships and project collaborations
+- 🤝 Looking for opportunities and project collaborations
 
 ---
 
