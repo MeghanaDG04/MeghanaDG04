@@ -93,7 +93,5 @@
 🏆 **Achievements**
 
 <p align="center">
-  <a href="https://github.com/MeghanaDG04">
-    <img src="https://github-profile-trophy.vercel.app/?username=MeghanaDG04&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=MeghanaDG04&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
