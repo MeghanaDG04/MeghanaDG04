@@ -10,10 +10,12 @@
 ---
 
 🔍 **About Me**  
-- 💻 CSE student with a foundation in **Java**, **Data Structures**.  
+- 💻 Computer Science & Engineering graduate.
 - 🌱 Passionate about building real-world apps using **MERN Stack**, **Spring MVC**,**Flutter** and contributing to **Open Source**
-- 📚 Learning, growing, and building cool things  
-- 🤝 Looking for opportunities and project collaborations
+- 🚀 Interested in Full Stack Development, problem-solving, and Open Source
+- 📚 Continuously learning new technologies and strengthening my development skills
+- 🤝 Open to job opportunities, internships, collaborations, and exciting projects
+- 💡 I enjoy turning ideas into practical solutions and building projects that create real-world impact
 
 ---
 
